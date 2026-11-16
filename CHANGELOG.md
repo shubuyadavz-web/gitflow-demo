@@ -1,4 +1,4 @@
-# Changelog
+﻿# Changelog
 
 ## 1.0.1
 - Fix zero-quantity validation regression.
