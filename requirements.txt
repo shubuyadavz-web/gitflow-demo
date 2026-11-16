@@ -1,0 +1,4 @@
+pytest
+bandit
+pip-audit
+setuptools>=84.1.0
